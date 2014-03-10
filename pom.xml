@@ -19,7 +19,7 @@
 	<repositories>
 		<repository>
 			<id>YOUR-PROJECT-NAME-mvn-repo</id>
-			<url>https://raw.github.com/malalanayake/sw-protection-client/mvn-repo/</url>
+			<url>https://raw.github.com/malalanayake/mvn-repo/artifacts/</url>
 			<snapshots>
 				<enabled>true</enabled>
 				<updatePolicy>always</updatePolicy>
